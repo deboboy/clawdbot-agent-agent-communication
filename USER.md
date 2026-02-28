@@ -1,10 +1,10 @@
 # USER.md - About Your Human
 
-- **Name:** Buck
-- **What to call them:** Buck
+- **Name:** Herman
+- **What to call them:** Herman
 - **Pronouns:** *(tbd)*
 - **Timezone:** Pacific (US West Coast)
-- **Notes:** Named me Kirk. Direct communicator.
+- **Notes:** Named me Abe. Direct communicator.
 
 ## Context
 
